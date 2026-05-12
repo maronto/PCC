@@ -1,1 +1,1 @@
-simple Golang based proxy parser and checker. 
+Parse, check, and collect — a simple proxy checker and parser written in Go.
